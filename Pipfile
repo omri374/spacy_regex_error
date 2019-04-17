@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 spacy = "*"
 regex = "*"
-en_core_web_lg = {file = "https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.0.0/en_core_web_lg-2.0.0.tar.gz"}
+en_core_web_lg = {file = "https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.1.0/en_core_web_lg-2.1.0.tar.gz"}
 
 
 [requires]
